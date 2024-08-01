@@ -1,0 +1,14 @@
+Vamos a jugar Mastermind;
+
+Se debe construir un juego de Mastermind desde la línea de comandos,
+donde el jugador tiene 12 intentos para adivinar el código secreto de cuatro
+colores, comenzando por adivinar el código aleatorio de la computadora o
+del jugador humano.
+
+Antes de comenzar el juego, se le preguntará al jugador si desea ser el
+creador del código o el adivinador. Dependiendo de su elección, se
+procederá con el juego de Mastermind de acuerdo con su papel
+seleccionado. Si elige ser el creador, deberá ingresar el código secreto (
+los cuatro colores - red - blue - green - yellow) que la computadora
+intentará adivinar. Si elige ser el adivinador, el programa generará un
+código secreto aleatorio para que el jugador intente adivinar.
